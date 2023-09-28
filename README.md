@@ -1,2 +1,1 @@
-#!/bin/bash
-Description
+Shell basics Readme
